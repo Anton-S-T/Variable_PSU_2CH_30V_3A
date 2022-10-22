@@ -6,4 +6,4 @@ Regarding version history. The V1 version of the power supply has no channel iso
 V2 will get proper channel isolation.
 
 Disclaimer: I do not take any responsibilities over any harm that may be caused.
-Line voltages are at play!
+Live voltages are at play!
